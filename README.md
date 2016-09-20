@@ -5,6 +5,7 @@ Simple program doing simple table calculations.
 using System;
 
 
+
 using System.Collections.Generic;
 
 
@@ -14,6 +15,11 @@ using System.Linq;
 using System.Text;
 
 
+
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+>>>>>>> de4451344850d6dc61ecc0fe5c66582a22934909
 using System.Threading.Tasks;
 
 namespace _06.Test
@@ -26,24 +32,17 @@ namespace _06.Test
 
 
             var nCopy = n;
-
             int thirdDigit = n % 10; 
-
             int firtDigit = n / 10;
-
             int firstDigit1 = n / 100; 
-
             int secondDigit = firtDigit % 10;
-
+            
             int Redove = firstDigit1 + secondDigit;
-
             int koloni = firstDigit1 + thirdDigit;
 
 
             int digit5 = 0;
-
             int digit3 = 0;
-
             int nelse = 0;
 
 
