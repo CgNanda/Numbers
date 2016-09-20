@@ -1,7 +1,11 @@
 # Numbers
 Simple program doing simple table calculations.
 -----------------------------------------------
+
 bla bla bla xaxaxaxa
+
+and doing new things
+
 using System;
 
 
