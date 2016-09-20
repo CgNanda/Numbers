@@ -2,7 +2,7 @@
 Simple program doing simple table calculations.
 -----------------------------------------------
 
-bla bla bla xaxaxaxaz
+bla bla bla xaxaxaxazs
 
 and doing new things
 
