@@ -19,7 +19,7 @@ using System.Text;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
->>>>>>> de4451344850d6dc61ecc0fe5c66582a22934909
+
 using System.Threading.Tasks;
 
 namespace _06.Test
