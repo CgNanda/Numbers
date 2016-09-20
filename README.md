@@ -2,7 +2,15 @@
 Simple program doing simple table calculations.
 
 -----------------------------------------------
+<<<<<<< HEAD
 adadadadaSAS
+=======
+
+bla bla bla xaxaxaxazseqeqeqeqeq
+eqe
+and doing new things
+
+>>>>>>> 093858065da9f994c17dc36b0fc222a4d2c98265
 using System;
 
 
