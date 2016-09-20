@@ -3,9 +3,13 @@ Simple program doing simple table calculations.
 -----------------------------------------------
 
 using System;
+
 using System.Collections.Generic;
+
 using System.Linq;
+
 using System.Text;
+
 using System.Threading.Tasks;
 
 namespace _06.Test
@@ -15,17 +19,25 @@ namespace _06.Test
         static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
+
             var nCopy = n;
+
             int thirdDigit = n % 10; 
+
             int firtDigit = n / 10;
+
             int firstDigit1 = n / 100; 
+
             int secondDigit = firtDigit % 10;
 
             int Redove = firstDigit1 + secondDigit;
+
             int koloni = firstDigit1 + thirdDigit;
 
             int digit5 = 0;
+
             int digit3 = 0;
+
             int nelse = 0;
 
             for (int i = 0; i < Redove; i++)
