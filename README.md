@@ -3,8 +3,8 @@ Simple program doing simple table calculations.
 
 -----------------------------------------------
 
-bla bla bla xaxaxaxazs
-
+bla bla bla xaxaxaxazseqeqeqeqeq
+eqe
 and doing new things
 
 using System;
