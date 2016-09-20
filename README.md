@@ -1,6 +1,6 @@
 # Numbers
 Simple program doing simple table calculations.
-
+-----------------------------------------------
 
 using System;
 using System.Collections.Generic;
