@@ -4,11 +4,15 @@ Simple program doing simple table calculations.
 
 using System;
 
+
 using System.Collections.Generic;
+
 
 using System.Linq;
 
+
 using System.Text;
+
 
 using System.Threading.Tasks;
 
@@ -19,6 +23,7 @@ namespace _06.Test
         static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
+
 
             var nCopy = n;
 
@@ -34,11 +39,13 @@ namespace _06.Test
 
             int koloni = firstDigit1 + thirdDigit;
 
+
             int digit5 = 0;
 
             int digit3 = 0;
 
             int nelse = 0;
+
 
             for (int i = 0; i < Redove; i++)
             {
